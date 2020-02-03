@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A"
+title                    : "Awork lab!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Awork Lab!"
+name                     : "Awork!"
 description              : "Bon Voyage~"
 url                      : "https://aworklab.github.io"
 baseurl                  : ""
