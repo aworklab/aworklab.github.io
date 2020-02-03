@@ -1,0 +1,19 @@
+---
+title: "안녕 안녕"
+excerpt: "이건 무엇일까요 excerpt?"
+date: 2020-02-03
+
+categories:
+  - 카테고리 필요하심?
+tags:
+  - 카테고리
+  - 무엇일까
+  - 알고 싶어
+---
+테스트에요 하나둘셋
+
+```python
+for i in seq(6):
+  i =+ 1
+  print(i)
+```
