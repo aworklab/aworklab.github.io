@@ -14,14 +14,14 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 
 remote_theme : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Awork lab!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Awork!"
+name                     : "Awork"
 description              : "Bon Voyage~"
 url                      : "https://aworklab.github.io"
 baseurl                  : ""
