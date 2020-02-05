@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air""default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Awork lab!"
+title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Awork Lab!"# site tagline that appears below site title in masthead
 name                     : "Awork"
-description              : "Bon Voyage~"
-url                      : "https://aworklab.github.io"
-baseurl                  : ""
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Awork"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "데이터길은 멀고도 멀다"
-  location         : "Seoul/Korea"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -119,14 +119,12 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://awork.net"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url : "https://www.facebook.com/sungwook.ok"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
